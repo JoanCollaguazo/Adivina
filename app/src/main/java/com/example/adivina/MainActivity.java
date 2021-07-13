@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         btnCheck = (Button) findViewById(R.id.buttonCheck);
 
     }
-
+//METODO RANDOM:
     public int aleatorio(int a) {
         Random nAleatorio = new Random();
         int n = nAleatorio.nextInt(a);
