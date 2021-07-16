@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Adivina</string>
+    <string name="error_numero"></string>
 </resources>
